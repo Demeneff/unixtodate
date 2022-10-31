@@ -1,6 +1,3 @@
-# UnixToDate
-Python библиотека.
-_____
 ## Оглавление
 1. [Для чего эта библиотека?](https://github.com/Demeneff/unixtodate#Для-чего-эта-библиотека)
 2. [Функции](https://github.com/Demeneff/unixtodate#Функции)
